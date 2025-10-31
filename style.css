@@ -3,3 +3,16 @@ body{
  background-color: aquamarine;
  margin: 0px; 
 }
+header{
+border-bottom: solid 2px green;
+margin: 20px;
+font-size: 60px;
+}
+img{
+  height: 200px ;  
+}
+.categoria-vídeos{
+display: flex;
+overflow: auto;
+gap: 10px;
+}
